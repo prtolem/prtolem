@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/prtolem/](https://github.com/prtolem/)
 
-- 📝 I regularly write articles on [https://twitter.com/Prtolem](https://twitter.com/Prtolem)
-
 - 💬 Ask me about **PYTHON**
 
 - 📫 How to reach me **TG: @derkown**
