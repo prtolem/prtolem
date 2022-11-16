@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @prtolem
+- 👀 I’m interested in python and VR
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on yandex
+- 📫 How to reach me @derkonw
